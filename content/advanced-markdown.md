@@ -1,17 +1,17 @@
 ---
-title: Advanced Markdown tips
+title: Recipe for Banana Boats
 image: /images/advanced.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
+author: Patrick Tew
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
-  - getting-started
+  - Banana Boat Boy
 ---
 
-There are lots of powerful things you can do with the Markdown
+What a great recipe!
 
 If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
 
